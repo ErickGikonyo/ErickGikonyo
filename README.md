@@ -1,5 +1,5 @@
 -MY PROFILE
-- 👋 Hi, I’m @ErickGikonyo
+- 👋 Hi, I’m @Erick Karugu Gikonyo
 - 👀 I’m interested in coding,web development and anime development
 - 🌱 I’m currently learning ICT
 - 💞️ I’m looking to collaborate on Coding,web developer and anime development
